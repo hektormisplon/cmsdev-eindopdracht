@@ -11,7 +11,7 @@
     "knex": "<0.20.0",
     "pg": "^8.3.2",
     "sqlite3": "latest",
-    "strapi": "3.0.0",
+    "strapi": "3.2.5",
     "strapi-admin": "3.0.0",
     "strapi-connector-bookshelf": "3.0.0",
     "strapi-plugin-content-manager": "3.0.0",
